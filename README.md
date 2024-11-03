@@ -81,3 +81,4 @@ This repository contains Python scripts that demonstrate various applications of
 Ensure you have the necessary permissions and comply with Google's terms of service when using the Gemini API.
 
 For more detailed information about each script and its functionalities, please refer to the comments within the individual files.
+For more information about the model ans example, please refer to [Gemini cookbook](https://github.com/google-gemini/cookbook/tree/main) and [Gemini API Documents](https://ai.google.dev/gemini-api/docs)
