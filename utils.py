@@ -76,6 +76,8 @@ async def process_tool(
                     
                     # Combine top results into a single response string
                     result = "\n\n".join(top_results)
+                else:
+                    result = "\n\n".join(result)
                     
                 cprint(result, "light_magenta", flush=True)
                 cprint("_"*80, flush=True)
